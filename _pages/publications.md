@@ -18,7 +18,7 @@ author_profile: true
 
 ## food cues & obesity
 
-Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (Under review). Calorie information and dieting status modulate reward and control activation in response to food images.
+Courtney, A.L., PeConga E., Wagner D.D., Rapuano, K.M. (2018). Calorie information and dieting status modulate reward and control activation in response to food images. Plos One. [[PDF]](https://kristinarapuano.github.io/files/CourtneyRapuano_2018_PlosOne.pdf)</a> 
 
 Rapuano, K.M., Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165. <a class="third" href="#">[[PDF]](https://kristinarapuano.github.io/files/Rapuano_2016_PNAS.pdf)</a> 
 
