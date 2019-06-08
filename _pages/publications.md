@@ -44,7 +44,7 @@ Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (20
 
 Kringelbach, M.L. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013. [[PDF]](https://kristinarapuano.github.io/files/BrainCommentary.pdf)
 
-Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Altered ability to access a clinically relevant control network in patients remitted from major depressive disorder. Human brain mapping.
+Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (2019). Altered ability to access a clinically relevant control network in patients remitted from major depressive disorder. Human brain mapping.
 
 Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (2019). Dynamical exploration of the repertoire of brain networks at rest is modulated by psilocybin. NeuroImage.
 
