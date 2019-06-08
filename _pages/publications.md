@@ -33,7 +33,7 @@ Simmons, W.K., Rapuano, K.M., Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.
 
 ## alcohol cues & underage drinking
 
-Courtney, A.L., Casey, B.J., Rapuano, K.M. (Under review). A neurobiological model of alcohol marketing effects on underage drinking.
+Courtney, A.L., Casey, B.J., Rapuano, K.M. (in press). A neurobiological model of alcohol marketing effects on underage drinking.
 
 Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs. 79(1), 29-38. [[PDF]](https://kristinarapuano.github.io/files/CourtneyRapuano_2018a_JSAD.pdf)
 
@@ -44,16 +44,17 @@ Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (20
 
 Kringelbach, M.L. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013. [[PDF]](https://kristinarapuano.github.io/files/BrainCommentary.pdf)
 
-Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Patients remitted from Major Depressive Disorder show decreased ability to access a clinically relevant control network.
+Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Altered ability to access a clinically relevant control network in patients remitted from major depressive disorder. Human brain mapping.
 
-Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (Submitted). Atypical brain state trajectories in the psychedelic state. 
+Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (2019). Dynamical exploration of the repertoire of brain networks at rest is modulated by psilocybin. NeuroImage.
 
-Stevner A.B.A., Vidaurre, D., Cabral J., Rapuano K.M., Nielsen, S.F.V., Tagliazucchi E., Laufs H., Deco G., Woolrich M.W., Van Someren E., Kringelbach M. L. (Under review). Discovery of key whole-brain transitions and dynamics underlying the human sleep cycle.
+Stevner A.B.A., Vidaurre, D., Cabral J., Rapuano K.M., Nielsen, S.F.V., Tagliazucchi E., Laufs H., Deco G., Woolrich M.W., Van Someren E., Kringelbach M. L. (2019). Discovery of key whole-brain transitions and
+dynamics during human wakefulness and non-REM sleep. Nature communications, 10(1), 1035.
 
 
 ## miscellaneous
 
-Rapuano, K.M., Heatherton, T.F., Kelley, W.M. (Submitted). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
+Ashburn, S., Abugaber, D., Antony, J., Bennion, K., Bridwell, D., Cardenas-Iniguez, C., Doss, M., Fernández, L., Huijsmans, I., Krisst, L., Lapate, R., Layher, E., Leong, J., Li, Y., Marquez, F., Munoz-Rubke, F., Musz, L., Patterson, T., Powers, J., Proklova, D., Rapuano, K., Robinson, S., Ross, J., Samaha, J., Sazma, M., Stewart, A., Stickel, A., Stolk, A., Vilgis, V., Zirnstein, M. (in press). Towards a socially responsible, transparent, and reproducible cognitive neuroscience. In D. Poeppel, M. Gazzaniga, & R. Mangun, The Cognitive Neurosciences VI. Cambridge, MA: MIT Press.
 
 Talkington, W.J., Rapuano, K.M., Hitt, L., Frum, C.A., Lewis, J.W. (2012). Humans mimicking animals: A cortical hierarchy for human vocal communication sounds. The Journal of Neuroscience, 32(23):8084-8093. [[PDF]](https://kristinarapuano.github.io/files/Talkington_2012_JNeuro.pdf)
 
