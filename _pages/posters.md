@@ -9,3 +9,5 @@ author_profile: true
 
 Kristina Rapuano, Monica Rosenberg, Abigail Greene, Corey Horien,  Dustin Scheinost, Todd Constable, BJ Casey
 [[PDF]](https://kristinarapuano.github.io/files/2019_Flux_poster_v2.pdf)
+
+<a href="/files/2019_Flux_poster_v2.pdf" class="image fit"><img alt=""></a>
