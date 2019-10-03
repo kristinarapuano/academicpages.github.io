@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kristina Rapuano <small><small><br>kristina.rapuano@yale.edu // Sheffield-Sterling-Strathcona Hall 414, 1 Prospect Street, New Haven CT 06511 // Citizenship: U.S.A.</small></small>"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,10 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-<html>
-<body>
-    <object data="https://kristinarapuano.github.io/files/CourtneyRapuano_2018_PlosOne.pdf" type="application/pdf">
-        <embed src="https://kristinarapuano.github.io/files/CourtneyRapuano_2018_PlosOne.pdf" type="application/pdf" />
-    </object>
-</body>
-</html>
+<object data="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf" type="application/pdf" width="600" height="500">
+    <embed src="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf" width="600px" height="500px" />
+        <p>This browser does not support PDFs. Please download the PDF to view it: 
+        <a href="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf">Download PDF</a>.</p>
+    </embed></object>
