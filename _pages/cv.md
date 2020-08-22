@@ -8,8 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-<object data="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf" type="application/pdf" width="600" height="500">
-    <embed src="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf" width="600px" height="500px" />
+<object data="https://kristinarapuano.github.io/files/Rapuano_CV_August2020.pdf" type="application/pdf" width="600" height="500">
+    <embed src="https://kristinarapuano.github.io/files/Rapuano_CV_August2020.pdf" width="600px" height="500px" />
         <p>This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="https://kristinarapuano.github.io/files/Rapuano_CV_Sept2019.pdf">Download PDF</a>.</p>
+        <a href="https://kristinarapuano.github.io/files/Rapuano_CV_August2020.pdf">Download PDF</a>.</p>
     </embed></object>
